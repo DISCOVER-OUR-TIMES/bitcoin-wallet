@@ -1,0 +1,39 @@
+git@github.com:DISCOVER-OUR-TIMES/bitcoin-wallet.git="true"+{COMMIT}
+gh repo clone DISCOVER-OUR-TIMES/bitcoin-wallet + Create bots,.://https://bots.com/bot<1>,bot<2>,<bot3>{START}[run]="COMMITS","DEPOSITS","TRANFSERS","REWARDS","PROFITS"."MINING REWARDS&PROFIS<="true"
+https://github.com/DISCOVER-OUR-TIMES/bitcoin-wallet.git="true"**^**"ACCOUNTADDRESS"<16P9zqxiWvWBKzaWToVmyZd6zh5NFBCgUm>={SUPPLY}1,000,000,000.00BTC>{COLLECTIONS}="true"
+https://github.com/ShayneMichaelBacik1/bitcoin.git<.://https://coinbase.com/@shaynebacik.accounts"CREATEDbyOWNER"={APPROVEDbyOWNER}="true"
+- name: Setup Node.js environment
+  uses: actions/setup-node@v3.3.0
+  with:
+    # Set always-auth in npmrc.
+    always-auth: # optional, default is false
+    # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
+    node-version: # optional
+    # File containing the version Spec of the version to use.  Examples: .nvmrc, .node-version.
+    node-version-file: # optional
+    # Target architecture for Node to use. Examples: x86, x64. Will use system architecture by default.
+    architecture: # optional
+    # Set this option if you want the action to check for the latest available version that satisfies the version spec.
+    check-latest: # optional
+    # Optional registry to set up for auth. Will set the registry in a project level .npmrc and .yarnrc file, and set up auth to read in from env.NODE_AUTH_TOKEN.
+    registry-url: # optional
+    # Optional scope for authenticating against scoped registries. Will fall back to the repository owner when using the GitHub Packages registry (https://npm.pkg.github.com/).
+    scope: # optional
+    # Used to pull node distributions from node-versions.  Since there's a default, this is typically not supplied by the user.
+    token: # optional, default is ${{ github.token }}
+    # Used to specify a package manager for caching in the default directory. Supported values: npm, yarn, pnpm.
+    cache: # optional
+    # Used to specify the path to a dependency file: package-lock.json, yarn.lock, etc. Supports wildcards or a list of file names for caching multiple dependencies.
+    cache-dependency-path: # optional
+    {START}+[boolean]="true"
+    (1.){BITCOIN ADDRESS}+{COMMITS}&{FUNCTION+COLLECTIONS}="true" ,<BTC TOKEN&ADRRESS>"bc1qz96wpf70xk385jwf3ruslw588hwtavcmwh45ur"="true"{commit}+[START],"payloads"."deposits"="true"
+    RUN+START{BITCOIN ADDRESS}<"16P9zqxiWvWBKzaWToVmyZd6zh5NFBCgUm">="TRUE"
+    1.DEPOPSITS,2.PROFITS,3.REWARDS,4.SHARED INCOME MARGINS,5.SOURCED CONTRACTS,6.VERIFIRD CONTRACTS,7.GAINS&SHARE REWARDS,8.RECIEVING TRANSFER&PAYMENTS,9.EQUAL SHARE PROFITS,10.ADDRESS VERIFIED&OWNERSHIPS<CREATED>{timestamp:2:10:45am,DATE:JUNE10th/2022}="true"
+    }
+    {SupplyChain}=1,000,000,000,000.00BTC(BITCOIN)="true"
+    "EMAILS APPROVED" shaynemichaelbacik@outlook.com , & shaynemichaelhall@gmail.com {SPONSERSHIP OWNER}="TRUE<Shayne Michael Bacik"
+    {RUN}+{START}=[COMMITS]="true"
+    
+   
+    
+    
